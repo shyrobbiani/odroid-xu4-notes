@@ -11,14 +11,14 @@ Requirements:
   - Ethernet connection to a LAN Router
 
 - A PC with a micoSDHC card reader and an Ethernet connection to the LAN for fast access the ODROID using ssh.
-  - PC with Windows 8.1 or higher 
+  - A PC with Windows 8.1 or higher 
     - Putty (for ssh connection and file transfer)
     - VcXsrv (X server, faster than PuTTYs XLaunch)
     - Win32DiskImager
     
-  - PC with Linux
-    - to be specified
+  - or PC with Linux
+    - details to be specified
     
-  - Macintosh with OS/X
-    - to be specified  
+  - or Macintosh with OS/X
+    - details to be specified  
   
