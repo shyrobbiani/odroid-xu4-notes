@@ -10,6 +10,7 @@ Requirements:
 - Monitor with HDMI port for setup
 - Ethernet connection to a LAN Router
 
+
 - A PC with a micoSDHC card reader and an Ethernet connection to the LAN for fast access the ODROID using ssh.
   - PC with Windows 8.1 or higher 
     - Putty (for ssh connection and file transfer)
